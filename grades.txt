@@ -1,0 +1,2 @@
+roll_no,course_code,semester,quiz_avg,assignment,midterm,final,total,letter_grade
+BSAI-23-004,CS101,2,8.5,9.5,32,36,72,F
