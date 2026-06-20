@@ -38,6 +38,7 @@
 *.exe
 *.out
 *.app
+campus_analytics
 
 # Build directories
 build/
@@ -48,7 +49,7 @@ build-*/
 CMakeFiles/
 CMakeCache.txt
 cmake_install.cmake
-Makefile
+cmake_Makefile
 install_manifest.txt
 compile_commands.json
 
